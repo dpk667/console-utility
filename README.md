@@ -17,8 +17,6 @@ The advantage will be the design of the code with the assumption that:
 - it will be finalized by other developers;
 - it is intended for use in the production environment of the enterprise system.
 
-Translated with www.DeepL.com/Translator (free version)
-
 
 
 As a result, an archive was generated with the code, without bin and obj folders and other artifacts of building and running.
